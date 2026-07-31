@@ -313,7 +313,7 @@ pip install cuquantum-python[all]
 
 ```bash
 # Clone this repository
-git clone https://github.com/khlaifiabilel/cuQuantum.git
+git clone https://github.com/khlaifiabilel/cuquantum.git
 cd cuQuantum
 
 # Set CUDA path
@@ -873,7 +873,7 @@ Bayraktar, H., et al. (2023). cuQuantum SDK: A High-Performance Library for Acce
 
 ## 📬 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/khlaifiabilel/cuQuantum/issues)
+- **Issues**: [GitHub Issues](https://github.com/khlaifiabilel/cuquantum/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/NVIDIA/cuQuantum/discussions)
 - **Maintainer**: [Khlaifiabilel](https://github.com/khlaifiabilel)
 - **Original Repository**: [NVIDIA/cuQuantum](https://github.com/NVIDIA/cuQuantum)
